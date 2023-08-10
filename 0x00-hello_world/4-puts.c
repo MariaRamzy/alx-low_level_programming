@@ -2,7 +2,7 @@
 
 /**
  * main - main block
- * return: 0 success
+ * return - success and the program stopped
  */
 int main(void)
 {
