@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include "main.h"
 /**
  * _isdigit - checks for characters that are digits
  * @a: character
@@ -12,4 +12,3 @@ int mul(int a, int b)
 {
 return (a * b);
 }
-
